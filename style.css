@@ -1,0 +1,67 @@
+.section-department .box-date {
+    margin-bottom: 20px;
+    margin-left: 26px;
+  }
+  
+  .section-department .box-date p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .section-person img {
+    float: left;
+    margin-right: 33px;
+}
+
+  .section-person {
+    margin-top: 26px; 
+  }
+
+  .section-person h2 {
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 0;
+}  
+
+.section-person span {
+    font-size: 17px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+  .section-department hr {
+    margin-top: 33px;
+}
+  
+  @media (max-width: 991.98px) {
+  
+    .section-department .box-date {
+      margin-left: 0;
+    }
+  }
+  
+  a {
+    color: #d60e96;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+  }
+  
+  .w-225p {
+    width: 225px !important;
+  }
+  
+  i.fa {
+    margin-right: 20px;
+    min-width: 17px;
+    text-align: center;
+    font-size: 1.1rem;
+  }
+  
+  .fa.fa-envelope {
+    font-size: 16px;
+  }
+  
+  .fa.fa-mobile {
+    font-size: 24px;
+  }
+  
